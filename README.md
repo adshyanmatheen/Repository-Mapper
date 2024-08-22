@@ -21,7 +21,7 @@ The essential procedures required for initiating and configuring the project wit
 1. Clone the repository and retrieve it onto your local machine.
 
    ```sh
-   git clone https://github.com/adshyanmatheetharan/Code-Sketch.git
+   git clone https://github.com/adshyanmatheetharan/Repository-Mapper.git
    ```
 
 2. Navigate to the frontend folder directory.
